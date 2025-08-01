@@ -1,0 +1,34 @@
+
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background: #f4f4f4;
+}
+
+h1 {
+  text-align: center;
+}
+
+.slider-container {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.slider-group {
+  margin: 10px 0;
+}
+
+.slider-group input {
+  width: 250px;
+}
+
+.button-container {
+  text-align: center;
+  margin: 20px 0;
+}
+
+#pose-table {
+  margin: 20px auto;
+  width: 90%;
+  max-width: 800px;
+}
