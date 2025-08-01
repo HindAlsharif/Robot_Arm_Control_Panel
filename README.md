@@ -11,9 +11,9 @@ It saves, displays, loads, and removes servo positions from a MySQL database.
 - Display saved positions in a table.
 - Load a saved pose into the sliders.
 - Remove a pose from the table and database.
-- Run the current pose without showing any alert.
+- Run the current pose.
 - View the current run pose and status in a simple page.
-- Update the run status to 0 (stop) using a separate PHP file.
+- Update the run status to 0 (stop).
 
 ## Technologies Used
 - PHP
